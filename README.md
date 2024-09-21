@@ -1,4 +1,4 @@
-# Adaptive Resonance Abliteration (ARA)
+# Adaptive Resonance Abliteratior (ARA)
 
 ## Concept
 Adaptive Resonance Abliteration (ARA) is a novel technique that combines elements of abliteration and reverse abliteration with principles from adaptive resonance theory (ART) in neural networks. The core idea is to create a self-regulating system that can dynamically adjust the model's weights to enhance desired behaviors while simultaneously suppressing undesired ones, all within a single, cohesive process.
